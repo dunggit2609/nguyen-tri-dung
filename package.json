@@ -1,0 +1,13 @@
+{
+  "name": "nguyen_tri_dung_code_challenge",
+  "version": "1.0.0",
+  "description": "This repo use to present my solutions for problems provide by 99tech",
+  "main": "index.js",
+  "repository": "https://github.com/dunggit2609/nguyen-tri-dung",
+  "author": "nguyen tri dung",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./**/*.test.js",
+    "start": "node index.js"
+  }
+}
